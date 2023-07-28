@@ -1,1 +1,28 @@
-[{"usuario": "teste", "senha": "teste", "nivel_acesso": "administrador"}, {"usuario": "teste1", "senha": "teste", "nivel_acesso": "operador"}]
+{
+  "usuarios": [
+    {
+      "nome": "administrador",
+      "usuario": "master",
+      "senha": "masteradministrador123456",
+      "email": "lucaribeiro.dev@gmail.com",
+      "matricula": "11193",
+      "nivel": "administrador"
+    },
+    {
+      "nome": "teste",
+      "usuario": "teste",
+      "senha": "teste",
+      "email": "teste@example.com",
+      "matricula": "123456",
+      "nivel": "operador"
+    },
+    {
+      "nome": "Lucas Ribeiro",
+      "usuario": "11193",
+      "senha": "5caXox",
+      "email": "lucaribeiro.dev@gmail.com",
+      "matricula": "11193",
+      "nivel": "administrador"
+    }
+  ]
+}
